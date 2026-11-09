@@ -26,8 +26,8 @@ Cuento original: https://www.literatura.us/idiomas/rf/rf_paseo1.html
 4. **Análisis semántico** — tema central, subtemas, símbolos, conflicto,
    interpretaciones.
 5. **Participa** — mini-quiz de comprensión con retroalimentación inmediata y
-   encuestas de interpretación abierta con resultados en vivo (pensadas para
-   discutir con el resto del salón durante la presentación).
+   encuestas de interpretación abierta (pensadas para discutir con el resto
+   del salón durante la presentación).
 
 ## Archivos
 
